@@ -14,7 +14,7 @@ I also keep a pair of **backend reference implementations** — the same task-ma
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,next,nodejs,python,php&theme=dark" alt="TypeScript, Vue, Nuxt, React, Next.js, Node.js, Python, PHP" height="40" />
+<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,next,nodejs,python,php,postgres,docker&theme=dark" alt="TypeScript, Vue, Nuxt, React, Next.js, Node.js, Python, PHP, PostgreSQL, Docker" height="40" />
 
 ---
 
