@@ -8,6 +8,8 @@ I like owning a product end to end — from idea to a deployed app, and I'm big 
 
 In my spare time I build small dev-tools — **[t12n](https://github.com/denis-sofonov/t12n)** (TypeScript types → runtime validators) and **[sosna](https://github.com/denis-sofonov/sosna)** (a scaffolding CLI for Vue 3 & React).
 
+I also keep a pair of **backend reference implementations** — the same task-management REST API built in two stacks, **[Laravel](https://github.com/denis-sofonov/php-laravel-task-api)** and **[FastAPI](https://github.com/denis-sofonov/python-fastapi-task-api)** — one domain, two stacks, each with token auth, ownership rules, tests, CI and Docker.
+
 ---
 
 **Stack**
