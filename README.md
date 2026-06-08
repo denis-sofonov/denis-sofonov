@@ -1,6 +1,6 @@
 ### Hi, I'm Denis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="waving hand" />
 
-I'm a full-stack developer based in Moscow.
+I'm a senior frontend / fullstack developer based in Moscow.
 
 **Lead Frontend @ GlavNIVC** · previously **@ [Azbuka Vkusa](https://av.ru)**.
 
