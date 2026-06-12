@@ -8,7 +8,7 @@ I like owning a product end to end — from idea to a deployed app, and I'm big 
 
 In my spare time I build small dev-tools — **[t12n](https://github.com/denis-sofonov/t12n)** (TypeScript types → runtime validators).
 
-I also keep a pair of **backend reference implementations** — the same task-management REST API built in two stacks, **[Laravel](https://github.com/denis-sofonov/php-laravel-task-api)** and **[FastAPI](https://github.com/denis-sofonov/python-fastapi-task-api)** — one domain, two stacks, each with token auth, ownership rules, tests, CI and Docker.
+I also keep a set of **reference implementations** of the same task-management domain across stacks. The full-stack one is **[ts-nuxt-task-app](https://github.com/denis-sofonov/ts-nuxt-task-app)** — Nuxt 4 + Nitro with SSR, session auth and end-to-end type-safety from the Drizzle schema to the Vue components. Alongside it sit two backend takes on the same API, **[Laravel](https://github.com/denis-sofonov/php-laravel-task-api)** and **[FastAPI](https://github.com/denis-sofonov/python-fastapi-task-api)** — one domain, three stacks, each with auth, ownership rules, tests, CI and Docker.
 
 ---
 
