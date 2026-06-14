@@ -8,7 +8,7 @@ I like owning a product end to end — from idea to a deployed app, and I'm big 
 
 In my spare time I build small dev-tools — **[t12n](https://github.com/denis-sofonov/t12n)** (TypeScript types → runtime validators).
 
-I also keep a set of **reference implementations** of the same task-management domain across stacks. The full-stack ones are a **[Nuxt 4](https://github.com/denis-sofonov/ts-nuxt-task-app)** app and a **[Next.js 16](https://github.com/denis-sofonov/ts-next-task-app)** app (the latter built with Feature-Sliced Design) — both with SSR, session auth and end-to-end type-safety from the Drizzle schema to the components. Alongside them sit two backend takes on the same API, **[Laravel](https://github.com/denis-sofonov/php-laravel-task-api)** and **[FastAPI](https://github.com/denis-sofonov/python-fastapi-task-api)** — one domain, four stacks, each with auth, ownership rules, tests, CI and Docker.
+I also keep a set of **reference implementations** of the same task-management domain across stacks. The full-stack ones are a **[Nuxt](https://github.com/denis-sofonov/ts-nuxt-task-app)** app and a **[Next.js](https://github.com/denis-sofonov/ts-next-task-app)** app — both with SSR, session auth and end-to-end type-safety from the Drizzle schema to the components. Alongside them sit two backend takes on the same API, **[Laravel](https://github.com/denis-sofonov/php-laravel-task-api)** and **[FastAPI](https://github.com/denis-sofonov/python-fastapi-task-api)** — one domain, four stacks, each with auth, ownership rules, tests, CI and Docker.
 
 ---
 
