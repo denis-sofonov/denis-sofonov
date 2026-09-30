@@ -12,7 +12,7 @@ I also keep a set of **reference implementations** of the same task-management d
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,next,nodejs,php,postgres,docker&theme=dark" alt="TypeScript, Vue, Nuxt, React, Next.js, Node.js, PHP, PostgreSQL, Docker" height="40" />
+<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,next,nodejs,postgres,docker&theme=dark" alt="TypeScript, Vue, Nuxt, React, Next.js, Node.js, PostgreSQL, Docker" height="40" />
 
 ---
 
