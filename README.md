@@ -2,7 +2,7 @@
 
 I'm a senior frontend / fullstack developer based in Moscow.
 
-**Lead Frontend @ GlavNIVC** · previously **@ [Azbuka Vkusa](https://av.ru)**.
+**Lead Frontend · previously **@ [Azbuka Vkusa](https://av.ru)**.
 
 I like owning a product end to end — from idea to a deployed app, and I'm big on type-safety and clean architecture.
 
