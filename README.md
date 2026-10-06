@@ -20,4 +20,4 @@ I also keep a set of **reference implementations** of the same task-management d
 
 **Languages:** 🇷🇺 Russian (native) · 🇬🇧 English (B1)
 
-**Reach me:** [sofonov.dev](https://sofonov.dev) · [Telegram](https://t.me/denis_sofonov) · denissofonovv@gmail.com
+**Reach me:** [Telegram](https://t.me/zbxbcbz) · denissofonovv@gmail.com
