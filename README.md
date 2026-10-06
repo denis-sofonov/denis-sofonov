@@ -16,8 +16,6 @@ I also keep a set of **reference implementations** of the same task-management d
 
 ---
 
-[<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=22C55E&vCenter=true&width=430&lines=%F0%9F%9F%A2+Open+to+work;Full-time+roles;Open+to+relocation;Let's+talk+%E2%86%92" alt="Open to work" />](mailto:denissofonovv@gmail.com)
-
-**Languages:** 🇷🇺 Russian (native) · 🇬🇧 English (B1)
+**Languages:** Russian (native) · English (B1)
 
 **Reach me:** [Telegram](https://t.me/zbxbcbz) · denissofonovv@gmail.com
